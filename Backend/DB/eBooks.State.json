@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66a33c6af54b9b0075fbaab3"
+  },
+  "Name": "Jalisco"
+},
+{
+  "_id": {
+    "$oid": "66a33c6af54b9b0075fbaab4"
+  },
+  "Name": "Sinaloa"
+},
+{
+  "_id": {
+    "$oid": "66a33c6af54b9b0075fbaab5"
+  },
+  "Name": "California"
+},
+{
+  "_id": {
+    "$oid": "66a33c6af54b9b0075fbaab6"
+  },
+  "Name": "Nayarit"
+},
+{
+  "_id": {
+    "$oid": "66a33c6af54b9b0075fbaab7"
+  },
+  "Name": "Texas"
+},
+{
+  "_id": {
+    "$oid": "66a33c6af54b9b0075fbaab8"
+  },
+  "Name": "Nuevo Mexico"
+}]

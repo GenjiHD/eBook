@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaa7"
+  },
+  "Author": [
+    "Tzu Sun"
+  ],
+  "Item Code": "40101271",
+  "ISBN": "9786077479543",
+  "Name": "The Art of the War",
+  "Genres": [
+    "Strategy",
+    "Classic literature",
+    "Treaty"
+  ],
+  "Editorial": "Arie",
+  "Binding": "Rustic",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaa8"
+  },
+  "Author": [
+    "Nicolas Maquiavelo"
+  ],
+  "Item Code": "10798104",
+  "ISBN": "9798530687266",
+  "Name": "The Prince",
+  "Genres": [
+    "Classic Literature",
+    "Non-fiction"
+  ],
+  "Editorial": "Literatura publica",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaa9"
+  },
+  "Author": [
+    "Brandon Sanderson"
+  ],
+  "Item Code": "09878912",
+  "ISBN": "9788417347000",
+  "Name": "Oathbringer",
+  "Genres": [
+    "High Fantasy",
+    "Fantastic Literature"
+  ],
+  "Editorial": "NOVA",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaaa"
+  },
+  "Author": [
+    "James Clear"
+  ],
+  "Item Code": "18100413",
+  "ISBN": "9786075691251",
+  "Name": "Atomic Habits",
+  "Genres": [
+    "Self-help"
+  ],
+  "Editorial": "PAIDOS",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaab"
+  },
+  "Author": [
+    "David Goggings"
+  ],
+  "Item Code": "781906577",
+  "ISBN": "9781544512280",
+  "Name": "You Can't Hurt Me",
+  "Genres": [
+    "Biography",
+    "Auto-Biography"
+  ],
+  "Editorial": "Lioncrest Publishing",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaac"
+  },
+  "Author": [
+    "Brandon Sanderson"
+  ],
+  "Item Code": "10089675",
+  "ISBN": "9788466657662",
+  "Name": "The Way of the Kings",
+  "Genres": [
+    "Military sci-fi",
+    "High fantasy",
+    "Fantasy literature"
+  ],
+  "Editorial": "NOVA",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaad"
+  },
+  "Author": [
+    "Brandon Sanderson"
+  ],
+  "Item Code": "785671000",
+  "ISBN": "9788466657549",
+  "Name": "Words of Radiance",
+  "Genres": [
+    "High Fantasy",
+    "Fantasy Literature"
+  ],
+  "Editorial": "NOVA",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+},
+{
+  "_id": {
+    "$oid": "66a3369ff54b9b0075fbaaae"
+  },
+  "Author": [
+    "Brandon Sanderson"
+  ],
+  "Item Code": "87344590",
+  "ISBN": "9788417347932",
+  "Name": "Rhythm of War",
+  "Genres": [
+    "High Fantasy",
+    "Fantasy Literature"
+  ],
+  "Editorial": "NOVA",
+  "Binding": "Hard cover",
+  "Type of book": "Paper"
+}]

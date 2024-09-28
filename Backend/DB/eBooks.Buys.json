@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66bd99c654899628ed3a917f"
+  },
+  "Order Date": "2023-06-06",
+  "Deadline": "2023-06-21",
+  "Total": 10000,
+  "Subtotal": 12000,
+  "ID Editorial": {
+    "$oid": "66bd96f554899628ed3a9176"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd99c654899628ed3a9180"
+  },
+  "Order Date": "2023-10-20",
+  "Deadline": "2023-11-03",
+  "Total": 7000,
+  "Subtotal": 8000,
+  "ID Editorial": {
+    "$oid": "66bd96f554899628ed3a9177"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd99c654899628ed3a9181"
+  },
+  "Order Date": "2024-01-15",
+  "Deadline": "2024-01-22",
+  "Total": 15000,
+  "Subtotal": 18000,
+  "ID Editorial": {
+    "$oid": "66bd96f554899628ed3a9178"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd99c654899628ed3a9182"
+  },
+  "Order Date": "2024-03-12",
+  "Deadline": "2024-03-19",
+  "Total": 5000,
+  "Subtotal": 6000,
+  "ID Editorial": {
+    "$oid": "66bd96f554899628ed3a9179"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd99c654899628ed3a9183"
+  },
+  "Order Date": "2024-04-23",
+  "Deadline": "2024-04-30",
+  "Total": 7500,
+  "Subtotal": 9000,
+  "ID Editorial": {
+    "$oid": "66bd96f554899628ed3a917a"
+  }
+}]

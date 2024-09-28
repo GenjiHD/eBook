@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66bd96f554899628ed3a9176"
+  },
+  "Name": "Ariel",
+  "Phone Number": "+34-93-496-70-30",
+  "email": "editorial@ariel.es"
+},
+{
+  "_id": {
+    "$oid": "66bd96f554899628ed3a9177"
+  },
+  "Name": "Literatura Pública",
+  "Phone Number": "+34-40-701-15-20",
+  "email": "literaturapublica@outlook.es"
+},
+{
+  "_id": {
+    "$oid": "66bd96f554899628ed3a9178"
+  },
+  "Name": "NOVA",
+  "Phone Number": "+34-93-366-03-00",
+  "email": "editorial@penguinhouse.es"
+},
+{
+  "_id": {
+    "$oid": "66bd96f554899628ed3a9179"
+  },
+  "Name": "PAIDOS",
+  "Phone Number": "93-492-87-50",
+  "email": "paidos@paidos.com"
+},
+{
+  "_id": {
+    "$oid": "66bd96f554899628ed3a917a"
+  },
+  "Name": "Lioncrest Publishing",
+  "Phone Number": "90-103-40-33",
+  "email": "info@scribepub.com.au"
+}]

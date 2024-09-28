@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66bd8df754899628ed3a9160"
+  },
+  "email": "ZapopanBranch@eBooks.com",
+  "Phone Number": "700-53-45",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaabd"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd8df754899628ed3a9161"
+  },
+  "email": "AlburquequeBranch@eBooks.com",
+  "Phone number": "234-98-77",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaac0"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd8df754899628ed3a9162"
+  },
+  "email": "CuliacanBranch@eBooks.com",
+  "Phone number": "455-77-88",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaabb"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd8df754899628ed3a9163"
+  },
+  "email": "DallasBranch@eBooks.com",
+  "Phone number": "329-56-19",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaac5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd8df754899628ed3a9164"
+  },
+  "email": "SacramentoBranch@eBooks.com",
+  "Phone number": "100-45-32",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaac2"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd8e5f54899628ed3a9166"
+  },
+  "email": "TepicBranch@eBooks.com",
+  "Phone number": "752-72-73",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaabe"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bd8e5f54899628ed3a9167"
+  },
+  "email": "XaliscoBranch@eBooks.com",
+  "Phone number": "665-89-00",
+  "ID City": {
+    "$oid": "66a33d3df54b9b0075fbaabf"
+  }
+}]
